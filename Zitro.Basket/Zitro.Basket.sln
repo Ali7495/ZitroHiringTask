@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zitro.Basket.Domain", "Zitro.Basket.Domain\Zitro.Basket.Domain.csproj", "{25DA68F5-C2E9-4EFD-BDD4-66B45C1DDB02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zitro.Basket.Application", "Zitro.Basket.Application\Zitro.Basket.Application.csproj", "{ADB6893B-B3ED-4F8C-AC24-AFEED5C0644F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zitro.Basket.Infrastructure", "Zitro.Basket.Infrastructure\Zitro.Basket.Infrastructure.csproj", "{9AA6046F-F184-42ED-A6AC-8FCF9FCEBA8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zitro.Basket.Api", "Zitro.Basket.Api\Zitro.Basket.Api.csproj", "{54AC02F1-BF18-4F88-997F-1A8DD1BC97F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zitro.Basket.Test", "Zitro.Basket.Test\Zitro.Basket.Test.csproj", "{97835160-D36A-4D8F-BE11-39121A1195BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25DA68F5-C2E9-4EFD-BDD4-66B45C1DDB02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25DA68F5-C2E9-4EFD-BDD4-66B45C1DDB02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25DA68F5-C2E9-4EFD-BDD4-66B45C1DDB02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25DA68F5-C2E9-4EFD-BDD4-66B45C1DDB02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADB6893B-B3ED-4F8C-AC24-AFEED5C0644F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB6893B-B3ED-4F8C-AC24-AFEED5C0644F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB6893B-B3ED-4F8C-AC24-AFEED5C0644F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB6893B-B3ED-4F8C-AC24-AFEED5C0644F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AA6046F-F184-42ED-A6AC-8FCF9FCEBA8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA6046F-F184-42ED-A6AC-8FCF9FCEBA8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA6046F-F184-42ED-A6AC-8FCF9FCEBA8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA6046F-F184-42ED-A6AC-8FCF9FCEBA8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54AC02F1-BF18-4F88-997F-1A8DD1BC97F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54AC02F1-BF18-4F88-997F-1A8DD1BC97F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54AC02F1-BF18-4F88-997F-1A8DD1BC97F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54AC02F1-BF18-4F88-997F-1A8DD1BC97F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97835160-D36A-4D8F-BE11-39121A1195BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97835160-D36A-4D8F-BE11-39121A1195BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97835160-D36A-4D8F-BE11-39121A1195BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97835160-D36A-4D8F-BE11-39121A1195BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
