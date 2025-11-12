@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Zitro.Basket.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Zitro.Basket.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Zitro.Basket.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Zitro.Basket.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Zitro.Basket.Domain/Zitro.Basket.Domain.csproj",
+      "msbuildProject": "../Zitro.Basket.Domain/Zitro.Basket.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "Zitro.Basket.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Ali\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Workshop\\Practices\\ZitroHiringTask\\Zitro.Basket\\Zitro.Basket.Domain\\Zitro.Basket.Domain.csproj": {
+              "projectPath": "D:\\Workshop\\Practices\\ZitroHiringTask\\Zitro.Basket\\Zitro.Basket.Domain\\Zitro.Basket.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
