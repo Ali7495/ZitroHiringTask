@@ -1,4 +1,14 @@
+using Zitro.Basket.Api;
+using Zitro.Basket.Application;
+using Zitro.Basket.Domain;
+using Zitro.Basket.Infrastructure;
+
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.RegisterInfrastructure(builder.Configuration);
+
+builder.Services.AddScoped<ICartService, CartService>();
+
 
 // Add services to the container.
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -14,29 +24,20 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-var summaries = new[]
+app.MapPost("/cart/services/normalize", async (AddCartServicesRequest request, ICartService cartService) =>
 {
-    "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-};
+    try
+    {
+        var result = await cartService.AddCartServiceItemAsync(
+            request.CartItem,
+            request.ProductProperty);
 
-app.MapGet("/weatherforecast", () =>
-{
-    var forecast =  Enumerable.Range(1, 5).Select(index =>
-        new WeatherForecast
-        (
-            DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-            Random.Shared.Next(-20, 55),
-            summaries[Random.Shared.Next(summaries.Length)]
-        ))
-        .ToArray();
-    return forecast;
-})
-.WithName("GetWeatherForecast")
-.WithOpenApi();
+        return Results.Ok(result);
+    }
+    catch (DomainException ex)
+    {
+        return Results.BadRequest(new { message = ex.Message });
+    }
+});
 
 app.Run();
-
-record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
-{
-    public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
-}

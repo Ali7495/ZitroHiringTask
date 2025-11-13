@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Zitro.Basket.Application/1.0.0": {
+        "dependencies": {
+          "Zitro.Basket.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Zitro.Basket.Application.dll": {}
+        }
+      },
+      "Zitro.Basket.Domain/1.0.0": {
+        "runtime": {
+          "Zitro.Basket.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zitro.Basket.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Zitro.Basket.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

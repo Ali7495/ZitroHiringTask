@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zitro.Basket.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+543d328df80c45f56e5b0d00aa3afa11fad96d2d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30588f91be173e7965278eafb214587a97598964")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zitro.Basket.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zitro.Basket.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

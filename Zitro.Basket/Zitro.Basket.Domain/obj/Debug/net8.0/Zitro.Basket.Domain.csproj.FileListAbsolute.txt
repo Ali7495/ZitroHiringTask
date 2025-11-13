@@ -1,0 +1,12 @@
+D:\Workshop\Practices\ZitroHiringTask\Zitro.Basket\Zitro.Basket.Domain\bin\Debug\net8.0\Zitro.Basket.Domain.deps.json
+D:\Workshop\Practices\ZitroHiringTask\Zitro.Basket\Zitro.Basket.Domain\bin\Debug\net8.0\Zitro.Basket.Domain.dll
+D:\Workshop\Practices\ZitroHiringTask\Zitro.Basket\Zitro.Basket.Domain\bin\Debug\net8.0\Zitro.Basket.Domain.pdb
+D:\Workshop\Practices\ZitroHiringTask\Zitro.Basket\Zitro.Basket.Domain\obj\Debug\net8.0\Zitro.Basket.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workshop\Practices\ZitroHiringTask\Zitro.Basket\Zitro.Basket.Domain\obj\Debug\net8.0\Zitro.Basket.Domain.AssemblyInfoInputs.cache
+D:\Workshop\Practices\ZitroHiringTask\Zitro.Basket\Zitro.Basket.Domain\obj\Debug\net8.0\Zitro.Basket.Domain.AssemblyInfo.cs
+D:\Workshop\Practices\ZitroHiringTask\Zitro.Basket\Zitro.Basket.Domain\obj\Debug\net8.0\Zitro.Basket.Domain.csproj.CoreCompileInputs.cache
+D:\Workshop\Practices\ZitroHiringTask\Zitro.Basket\Zitro.Basket.Domain\obj\Debug\net8.0\Zitro.Basket.Domain.sourcelink.json
+D:\Workshop\Practices\ZitroHiringTask\Zitro.Basket\Zitro.Basket.Domain\obj\Debug\net8.0\Zitro.Basket.Domain.dll
+D:\Workshop\Practices\ZitroHiringTask\Zitro.Basket\Zitro.Basket.Domain\obj\Debug\net8.0\refint\Zitro.Basket.Domain.dll
+D:\Workshop\Practices\ZitroHiringTask\Zitro.Basket\Zitro.Basket.Domain\obj\Debug\net8.0\Zitro.Basket.Domain.pdb
+D:\Workshop\Practices\ZitroHiringTask\Zitro.Basket\Zitro.Basket.Domain\obj\Debug\net8.0\ref\Zitro.Basket.Domain.dll

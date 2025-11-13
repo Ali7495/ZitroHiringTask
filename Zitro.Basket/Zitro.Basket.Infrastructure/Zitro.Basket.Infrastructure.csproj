@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Zitro.Basket.Domain\Zitro.Basket.Domain.csproj" />
+    <ProjectReference Include="..\Zitro.Basket.Application\Zitro.Basket.Application.csproj" />
   </ItemGroup>
 
   <ItemGroup>

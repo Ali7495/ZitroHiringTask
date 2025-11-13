@@ -1,0 +1,16 @@
+D:\Workshop\Practices\ZitroHiringTask\Zitro.Basket\Zitro.Basket.Application\bin\Debug\net8.0\Zitro.Basket.Application.deps.json
+D:\Workshop\Practices\ZitroHiringTask\Zitro.Basket\Zitro.Basket.Application\bin\Debug\net8.0\Zitro.Basket.Application.dll
+D:\Workshop\Practices\ZitroHiringTask\Zitro.Basket\Zitro.Basket.Application\bin\Debug\net8.0\Zitro.Basket.Application.pdb
+D:\Workshop\Practices\ZitroHiringTask\Zitro.Basket\Zitro.Basket.Application\bin\Debug\net8.0\Zitro.Basket.Domain.dll
+D:\Workshop\Practices\ZitroHiringTask\Zitro.Basket\Zitro.Basket.Application\bin\Debug\net8.0\Zitro.Basket.Domain.pdb
+D:\Workshop\Practices\ZitroHiringTask\Zitro.Basket\Zitro.Basket.Application\obj\Debug\net8.0\Zitro.Basket.Application.csproj.AssemblyReference.cache
+D:\Workshop\Practices\ZitroHiringTask\Zitro.Basket\Zitro.Basket.Application\obj\Debug\net8.0\Zitro.Basket.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workshop\Practices\ZitroHiringTask\Zitro.Basket\Zitro.Basket.Application\obj\Debug\net8.0\Zitro.Basket.Application.AssemblyInfoInputs.cache
+D:\Workshop\Practices\ZitroHiringTask\Zitro.Basket\Zitro.Basket.Application\obj\Debug\net8.0\Zitro.Basket.Application.AssemblyInfo.cs
+D:\Workshop\Practices\ZitroHiringTask\Zitro.Basket\Zitro.Basket.Application\obj\Debug\net8.0\Zitro.Basket.Application.csproj.CoreCompileInputs.cache
+D:\Workshop\Practices\ZitroHiringTask\Zitro.Basket\Zitro.Basket.Application\obj\Debug\net8.0\Zitro.Basket.Application.sourcelink.json
+D:\Workshop\Practices\ZitroHiringTask\Zitro.Basket\Zitro.Basket.Application\obj\Debug\net8.0\Zitro.Ba.1347B9E2.Up2Date
+D:\Workshop\Practices\ZitroHiringTask\Zitro.Basket\Zitro.Basket.Application\obj\Debug\net8.0\Zitro.Basket.Application.dll
+D:\Workshop\Practices\ZitroHiringTask\Zitro.Basket\Zitro.Basket.Application\obj\Debug\net8.0\refint\Zitro.Basket.Application.dll
+D:\Workshop\Practices\ZitroHiringTask\Zitro.Basket\Zitro.Basket.Application\obj\Debug\net8.0\Zitro.Basket.Application.pdb
+D:\Workshop\Practices\ZitroHiringTask\Zitro.Basket\Zitro.Basket.Application\obj\Debug\net8.0\ref\Zitro.Basket.Application.dll

@@ -167,6 +167,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "D:\\Workshop\\Practices\\ZitroHiringTask\\Zitro.Basket\\Zitro.Basket.Application\\Zitro.Basket.Application.csproj": {
+                "projectPath": "D:\\Workshop\\Practices\\ZitroHiringTask\\Zitro.Basket\\Zitro.Basket.Application\\Zitro.Basket.Application.csproj"
+              },
               "D:\\Workshop\\Practices\\ZitroHiringTask\\Zitro.Basket\\Zitro.Basket.Domain\\Zitro.Basket.Domain.csproj": {
                 "projectPath": "D:\\Workshop\\Practices\\ZitroHiringTask\\Zitro.Basket\\Zitro.Basket.Domain\\Zitro.Basket.Domain.csproj"
               }
